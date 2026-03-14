@@ -2,7 +2,7 @@
 A simple Number Guessing Game built using HTML, CSS, and JavaScript. The program generates a random number between 1 and 100, and the player must guess the correct number within 10 attempts.
 The game generates a random number from 1 to 100.
 
-| HOW THIS WORKS
+> HOW THIS WORKS
 The user enters a guess.
 
 The program checks if the guess is:
